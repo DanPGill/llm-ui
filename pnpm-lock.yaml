@@ -225,8 +225,8 @@ importers:
         specifier: ^0.33.2
         version: 0.33.3
       shiki:
-        specifier: ^1.5.2
-        version: 1.5.2
+        specifier: ^1.6.0
+        version: 1.6.0
       simple-stack-form:
         specifier: ^0.1.12
         version: 0.1.12(astro@4.5.12)(zod@3.22.4)
@@ -274,13 +274,13 @@ importers:
   examples/buttons/nextjs:
     dependencies:
       '@llm-ui/buttons':
-        specifier: ^0.3.0
+        specifier: ^0.4.0
         version: link:../../../packages/buttons
       '@llm-ui/markdown':
-        specifier: ^0.3.0
+        specifier: ^0.4.0
         version: link:../../../packages/markdown
       '@llm-ui/react':
-        specifier: ^0.3.0
+        specifier: ^0.4.0
         version: link:../../../packages/react
       next:
         specifier: 14.2.3
@@ -329,13 +329,13 @@ importers:
   examples/buttons/vite:
     dependencies:
       '@llm-ui/buttons':
-        specifier: ^0.3.0
+        specifier: ^0.4.0
         version: link:../../../packages/buttons
       '@llm-ui/markdown':
-        specifier: ^0.3.0
+        specifier: ^0.4.0
         version: link:../../../packages/markdown
       '@llm-ui/react':
-        specifier: ^0.3.0
+        specifier: ^0.4.0
         version: link:../../../packages/react
       react:
         specifier: ^18.2.0
@@ -396,13 +396,13 @@ importers:
   examples/code/nextjs:
     dependencies:
       '@llm-ui/code':
-        specifier: ^0.3.0
+        specifier: ^0.4.0
         version: link:../../../packages/code
       '@llm-ui/markdown':
-        specifier: ^0.3.0
+        specifier: ^0.4.0
         version: link:../../../packages/markdown
       '@llm-ui/react':
-        specifier: ^0.3.0
+        specifier: ^0.4.0
         version: link:../../../packages/react
       html-react-parser:
         specifier: ^5.1.10
@@ -423,8 +423,8 @@ importers:
         specifier: ^4.0.0
         version: 4.0.0
       shiki:
-        specifier: ^1.5.2
-        version: 1.5.2
+        specifier: ^1.6.0
+        version: 1.6.0
     devDependencies:
       '@tailwindcss/typography':
         specifier: ^0.5.13
@@ -457,13 +457,13 @@ importers:
   examples/code/vite:
     dependencies:
       '@llm-ui/code':
-        specifier: ^0.3.0
+        specifier: ^0.4.0
         version: link:../../../packages/code
       '@llm-ui/markdown':
-        specifier: ^0.3.0
+        specifier: ^0.4.0
         version: link:../../../packages/markdown
       '@llm-ui/react':
-        specifier: ^0.3.0
+        specifier: ^0.4.0
         version: link:../../../packages/react
       html-react-parser:
         specifier: ^5.1.10
@@ -481,8 +481,8 @@ importers:
         specifier: ^4.0.0
         version: 4.0.0
       shiki:
-        specifier: ^1.5.2
-        version: 1.5.2
+        specifier: ^1.6.0
+        version: 1.6.0
     devDependencies:
       '@tailwindcss/typography':
         specifier: ^0.5.13
@@ -530,10 +530,10 @@ importers:
   examples/markdown/nextjs:
     dependencies:
       '@llm-ui/markdown':
-        specifier: ^0.3.0
+        specifier: ^0.4.0
         version: link:../../../packages/markdown
       '@llm-ui/react':
-        specifier: ^0.3.0
+        specifier: ^0.4.0
         version: link:../../../packages/react
       next:
         specifier: 14.2.3
@@ -582,10 +582,10 @@ importers:
   examples/markdown/vite:
     dependencies:
       '@llm-ui/markdown':
-        specifier: ^0.3.0
+        specifier: ^0.4.0
         version: link:../../../packages/markdown
       '@llm-ui/react':
-        specifier: ^0.3.0
+        specifier: ^0.4.0
         version: link:../../../packages/react
       react:
         specifier: ^18.2.0
@@ -646,13 +646,13 @@ importers:
   examples/openai/nextjs:
     dependencies:
       '@llm-ui/code':
-        specifier: ^0.3.0
+        specifier: ^0.4.0
         version: link:../../../packages/code
       '@llm-ui/markdown':
-        specifier: ^0.3.0
+        specifier: ^0.4.0
         version: link:../../../packages/markdown
       '@llm-ui/react':
-        specifier: ^0.3.0
+        specifier: ^0.4.0
         version: link:../../../packages/react
       html-react-parser:
         specifier: ^5.1.10
@@ -676,8 +676,8 @@ importers:
         specifier: ^4.0.0
         version: 4.0.0
       shiki:
-        specifier: ^1.5.2
-        version: 1.5.2
+        specifier: ^1.6.0
+        version: 1.6.0
     devDependencies:
       '@tailwindcss/typography':
         specifier: ^0.5.13
@@ -710,13 +710,13 @@ importers:
   examples/openai/vite-and-express:
     dependencies:
       '@llm-ui/code':
-        specifier: ^0.3.0
+        specifier: ^0.4.0
         version: link:../../../packages/code
       '@llm-ui/markdown':
-        specifier: ^0.3.0
+        specifier: ^0.4.0
         version: link:../../../packages/markdown
       '@llm-ui/react':
-        specifier: ^0.3.0
+        specifier: ^0.4.0
         version: link:../../../packages/react
       dotenv:
         specifier: ^16.4.5
@@ -743,8 +743,8 @@ importers:
         specifier: ^4.0.0
         version: 4.0.0
       shiki:
-        specifier: ^1.5.2
-        version: 1.5.2
+        specifier: ^1.6.0
+        version: 1.6.0
       vite-express:
         specifier: ^0.16.0
         version: 0.16.0
@@ -804,13 +804,13 @@ importers:
         specifier: ^0.0.13
         version: 0.0.13(zod@3.23.8)
       '@llm-ui/code':
-        specifier: ^0.3.0
+        specifier: ^0.4.0
         version: link:../../../packages/code
       '@llm-ui/markdown':
-        specifier: ^0.3.0
+        specifier: ^0.4.0
         version: link:../../../packages/markdown
       '@llm-ui/react':
-        specifier: ^0.3.0
+        specifier: ^0.4.0
         version: link:../../../packages/react
       ai:
         specifier: ^3.1.12
@@ -834,8 +834,8 @@ importers:
         specifier: ^4.0.0
         version: 4.0.0
       shiki:
-        specifier: ^1.5.2
-        version: 1.5.2
+        specifier: ^1.6.0
+        version: 1.6.0
       zod:
         specifier: ^3.23.8
         version: 3.23.8
@@ -911,8 +911,8 @@ importers:
         specifier: ^18.0.0
         version: 18.2.0
       shiki:
-        specifier: ^1.5.2
-        version: 1.5.2
+        specifier: ^1.6.0
+        version: 1.6.0
     devDependencies:
       '@llm-ui/tsconfig':
         specifier: workspace:*
@@ -1288,7 +1288,7 @@ packages:
       remark-parse: 11.0.0
       remark-rehype: 11.1.0
       remark-smartypants: 2.1.0
-      shiki: 1.5.2
+      shiki: 1.6.0
       unified: 11.0.4
       unist-util-remove-position: 5.0.0
       unist-util-visit: 5.0.0
@@ -3989,8 +3989,8 @@ packages:
     resolution: {integrity: sha512-831qok9r2t8AlxLko40y2ebgSDhenenCatLVeW/uBtnHPyhHOvG0C7TvfgecV+wHzIm5KUICgzmVpWS+IMEAeg==}
     dev: true
 
-  /@shikijs/core@1.5.2:
-    resolution: {integrity: sha512-wSAOgaz48GmhILFElMCeQypSZmj6Ru6DttOOtl3KNkdJ17ApQuGNCfzpk4cClasVrnIu45++2DBwG4LNMQAfaA==}
+  /@shikijs/core@1.6.0:
+    resolution: {integrity: sha512-NIEAi5U5R7BLkbW1pG/ZKu3eb1lzc3/+jD0lFsuxMT7zjaf9bbNwdNyMr7zh/Zl8EXQtQ+MYBAt5G+JLu+5DlA==}
     dev: false
 
   /@sinclair/typebox@0.27.8:
@@ -5400,7 +5400,7 @@ packages:
       rehype: 13.0.1
       resolve: 1.22.8
       semver: 7.6.0
-      shiki: 1.5.2
+      shiki: 1.6.0
       string-width: 7.1.0
       strip-ansi: 7.1.0
       tsconfck: 3.0.3(typescript@5.4.3)
@@ -11588,10 +11588,10 @@ packages:
     resolution: {integrity: sha512-7++dFhtcx3353uBaq8DDR4NuxBetBzC7ZQOhmTQInHEd6bSrXdiEyzCvG07Z44UYdLShWUyXt5M/yhz8ekcb1A==}
     engines: {node: '>=8'}
 
-  /shiki@1.5.2:
-    resolution: {integrity: sha512-fpPbuSaatinmdGijE7VYUD3hxLozR3ZZ+iAx8Iy2X6REmJGyF5hQl94SgmiUNTospq346nXUVZx0035dyGvIVw==}
+  /shiki@1.6.0:
+    resolution: {integrity: sha512-P31ROeXcVgW/k3Z+vUUErcxoTah7ZRaimctOpzGuqAntqnnSmx1HOsvnbAB8Z2qfXPRhw61yptAzCsuKOhTHwQ==}
     dependencies:
-      '@shikijs/core': 1.5.2
+      '@shikijs/core': 1.6.0
     dev: false
 
   /side-channel@1.0.6:
